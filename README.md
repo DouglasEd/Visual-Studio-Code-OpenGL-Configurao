@@ -4,7 +4,7 @@ Obrigado por visitar a página do meu projeto de configuração C++ & OpenGL no 
 **Aviso:** este arquivo readme assume que você tem alguma experiência com Visual Studio Code, g++ e programação em OpenGL.
 
 ## Índice
-1. [Introdução](#introducao)
+1. [Introdução](#Introducao)
 2. [Pré-requisitos](#pre-requisitos)
     1. [Extensões do Visual Studio Code](#extensoes-do-visual-studio-code)
     2. [g++](#g++)
